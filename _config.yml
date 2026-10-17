@@ -1,7 +1,7 @@
 title: Voltura WeekNumber
 description: Keep the current week number visible beside the Windows clock.
-url: https://voltura.github.io
-baseurl: /voltura-weeknumber
+url: https://weeknumber.voltura.se
+baseurl: ""
 lang: en
 repository: voltura/voltura-weeknumber
 exclude:
